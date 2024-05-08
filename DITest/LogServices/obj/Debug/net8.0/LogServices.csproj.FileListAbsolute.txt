@@ -1,0 +1,11 @@
+D:\C#\DITest\LogServices\bin\Debug\net8.0\LogServices.deps.json
+D:\C#\DITest\LogServices\bin\Debug\net8.0\LogServices.dll
+D:\C#\DITest\LogServices\bin\Debug\net8.0\LogServices.pdb
+D:\C#\DITest\LogServices\obj\Debug\net8.0\LogServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DITest\LogServices\obj\Debug\net8.0\LogServices.AssemblyInfoInputs.cache
+D:\C#\DITest\LogServices\obj\Debug\net8.0\LogServices.AssemblyInfo.cs
+D:\C#\DITest\LogServices\obj\Debug\net8.0\LogServices.csproj.CoreCompileInputs.cache
+D:\C#\DITest\LogServices\obj\Debug\net8.0\LogServices.dll
+D:\C#\DITest\LogServices\obj\Debug\net8.0\refint\LogServices.dll
+D:\C#\DITest\LogServices\obj\Debug\net8.0\LogServices.pdb
+D:\C#\DITest\LogServices\obj\Debug\net8.0\ref\LogServices.dll

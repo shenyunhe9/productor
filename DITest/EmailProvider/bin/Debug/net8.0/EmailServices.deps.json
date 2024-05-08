@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmailServices/1.0.0": {
+        "dependencies": {
+          "IconfigServices": "1.0.0",
+          "LogServices": "1.0.0"
+        },
+        "runtime": {
+          "EmailServices.dll": {}
+        }
+      },
+      "IconfigServices/1.0.0": {
+        "runtime": {
+          "IconfigServices.dll": {}
+        }
+      },
+      "LogServices/1.0.0": {
+        "runtime": {
+          "LogServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IconfigServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\asycnawaitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7E3C7E-A11D-44AC-84A5-885896441880}|asycnawaitTest\\asycnawaitTest.csproj|d:\\c#\\asycnawaittest\\asycnawaittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7E3C7E-A11D-44AC-84A5-885896441880}|asycnawaitTest\\asycnawaitTest.csproj|solutionrelative:asycnawaittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\asycnawaitTest\\asycnawaitTest\\Program.cs",
+              "RelativeDocumentMoniker": "asycnawaitTest\\Program.cs",
+              "ToolTip": "D:\\C#\\asycnawaitTest\\asycnawaitTest\\Program.cs",
+              "RelativeToolTip": "asycnawaitTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:24:12.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

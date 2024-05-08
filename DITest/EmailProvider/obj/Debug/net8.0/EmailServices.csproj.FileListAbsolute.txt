@@ -1,0 +1,17 @@
+D:\C#\DITest\EmailProvider\bin\Debug\net8.0\EmailServices.deps.json
+D:\C#\DITest\EmailProvider\bin\Debug\net8.0\EmailServices.dll
+D:\C#\DITest\EmailProvider\bin\Debug\net8.0\EmailServices.pdb
+D:\C#\DITest\EmailProvider\bin\Debug\net8.0\IconfigServices.dll
+D:\C#\DITest\EmailProvider\bin\Debug\net8.0\LogServices.dll
+D:\C#\DITest\EmailProvider\bin\Debug\net8.0\IconfigServices.pdb
+D:\C#\DITest\EmailProvider\bin\Debug\net8.0\LogServices.pdb
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\EmailServices.csproj.AssemblyReference.cache
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\EmailServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\EmailServices.AssemblyInfoInputs.cache
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\EmailServices.AssemblyInfo.cs
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\EmailServices.csproj.CoreCompileInputs.cache
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\EmailSer.E6D23826.Up2Date
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\EmailServices.dll
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\refint\EmailServices.dll
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\EmailServices.pdb
+D:\C#\DITest\EmailProvider\obj\Debug\net8.0\ref\EmailServices.dll

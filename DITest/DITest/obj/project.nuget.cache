@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRZ1zrYmfuLfd2xqNdegGPgBBD+VtHcxFWCjr4S7NEi+YrRWSBr5txxEuIQInmvyR+OigVBTiuWCukaD+Rdevw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\DITest\\DITest\\DITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mentechs\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\mentechs\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

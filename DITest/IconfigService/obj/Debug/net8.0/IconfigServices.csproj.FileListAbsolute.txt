@@ -1,0 +1,11 @@
+D:\C#\DITest\IconfigService\bin\Debug\net8.0\IconfigServices.deps.json
+D:\C#\DITest\IconfigService\bin\Debug\net8.0\IconfigServices.dll
+D:\C#\DITest\IconfigService\bin\Debug\net8.0\IconfigServices.pdb
+D:\C#\DITest\IconfigService\obj\Debug\net8.0\IconfigServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DITest\IconfigService\obj\Debug\net8.0\IconfigServices.AssemblyInfoInputs.cache
+D:\C#\DITest\IconfigService\obj\Debug\net8.0\IconfigServices.AssemblyInfo.cs
+D:\C#\DITest\IconfigService\obj\Debug\net8.0\IconfigServices.csproj.CoreCompileInputs.cache
+D:\C#\DITest\IconfigService\obj\Debug\net8.0\IconfigServices.dll
+D:\C#\DITest\IconfigService\obj\Debug\net8.0\refint\IconfigServices.dll
+D:\C#\DITest\IconfigService\obj\Debug\net8.0\IconfigServices.pdb
+D:\C#\DITest\IconfigService\obj\Debug\net8.0\ref\IconfigServices.dll

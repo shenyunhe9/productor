@@ -1,0 +1,14 @@
+D:\C#\asycnawaitTest\asycnawaitTest\bin\Debug\net8.0\asycnawaitTest.exe
+D:\C#\asycnawaitTest\asycnawaitTest\bin\Debug\net8.0\asycnawaitTest.deps.json
+D:\C#\asycnawaitTest\asycnawaitTest\bin\Debug\net8.0\asycnawaitTest.runtimeconfig.json
+D:\C#\asycnawaitTest\asycnawaitTest\bin\Debug\net8.0\asycnawaitTest.dll
+D:\C#\asycnawaitTest\asycnawaitTest\bin\Debug\net8.0\asycnawaitTest.pdb
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\asycnawaitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\asycnawaitTest.AssemblyInfoInputs.cache
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\asycnawaitTest.AssemblyInfo.cs
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\asycnawaitTest.csproj.CoreCompileInputs.cache
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\asycnawaitTest.dll
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\refint\asycnawaitTest.dll
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\asycnawaitTest.pdb
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\asycnawaitTest.genruntimeconfig.cache
+D:\C#\asycnawaitTest\asycnawaitTest\obj\Debug\net8.0\ref\asycnawaitTest.dll
